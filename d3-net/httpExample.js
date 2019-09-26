@@ -1,4 +1,4 @@
-/** 
+/* 
  * SETUP
  * Our usual client setup code
  * Connect to example.com website's HTTP server using our TCP library
